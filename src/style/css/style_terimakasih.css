@@ -1,0 +1,22 @@
+body{
+	font-family: montserrat;
+	color: grey;
+	background-image: url(../img/background.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.menu{
+	font-family: montserrat;
+	color: grey;
+	margin-top: 50px;
+}
+.header{
+	font-family: montserrat;
+	color: grey;
+	text-align: center;
+	margin: 150px;
+}
+.img-fluid{
+	width: 210px;
+	height: 105px;
+}

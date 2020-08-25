@@ -1,0 +1,93 @@
+body {
+  font-family: montserrat;
+  color: grey;
+  background-image: url(./../../assets/img/background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.menu {
+  font-family: montserrat;
+  color: grey;
+  margin-top: 50px;
+}
+.header1 {
+  font-family: montserrat;
+  color: grey;
+}
+.img-fluid {
+  width: 210px;
+  height: 105px;
+}
+.img-fluid_paslon {
+  width: 300px;
+  height: 200px;
+}
+.suara_masuk {
+  font-family: montserrat;
+  color: grey;
+  width: 350px;
+  background: #f5f5f5;
+  /*meletakkan form ke tengah*/
+  margin: 20px auto;
+  float: center;
+  padding: 30px 20px;
+  border-radius: 20px;
+  text-align: center;
+  position: center;
+}
+.total_mahasiswa {
+  font-family: montserrat;
+  color: grey;
+  width: 350px;
+  background: #f5f5f5;
+  /*meletakkan form ke tengah*/
+  margin: 20px auto;
+  float: center;
+  padding: 30px 20px;
+  border-radius: 20px;
+  text-align: center;
+  position: center;
+}
+.presentase_suara {
+  font-family: montserrat;
+  color: grey;
+  width: 350px;
+  background: #f5f5f5;
+  /*meletakkan form ke tengah*/
+  margin: 20px auto;
+  float: center;
+  padding: 30px 20px;
+  border-radius: 20px;
+  text-align: center;
+  position: center;
+}
+.perolehan_suara_paslon1 {
+  font-family: montserrat;
+  color: grey;
+  width: 350px;
+  background: #f5f5f5;
+  /*meletakkan form ke tengah*/
+  margin: 60px auto;
+  float: center;
+  padding: 30px 20px;
+  border-radius: 20px;
+  text-align: center;
+  position: center;
+}
+.perolehan_suara_paslon2 {
+  font-family: montserrat;
+  color: grey;
+  width: 350px;
+  background: #f5f5f5;
+  /*meletakkan form ke tengah*/
+  margin: 60px auto;
+  float: center;
+  padding: 30px 20px;
+  border-radius: 20px;
+  text-align: center;
+  position: center;
+}
+.icon {
+  width: 150px;
+  height: 150px;
+}
